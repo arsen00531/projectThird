@@ -15,7 +15,7 @@ const About = () => {
                     </p>
                 </div>
                 
-                <a href="https://github.com/SecondNiceee/projectThree" rel = "noopener noreferrer" target="_blank" className="border-blue-500 flex justify-center w-fit mx-auto bg-blue-500 p-2 md:p-4 border-2 rounded-lg">
+                <a href="https://github.com/arsen00531/project-third" rel = "noopener noreferrer" target="_blank" className="border-blue-500 flex justify-center w-fit mx-auto bg-blue-500 p-2 md:p-4 border-2 rounded-lg">
                     <p className="text-sm sm:text-lg md:text-xl font-bold text-white">Go to repository</p>
                 </a>
             </div>
