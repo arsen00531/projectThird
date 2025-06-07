@@ -1,0 +1,1 @@
+export type TFetchStatus = "fullfiled" | "rejected" | "pending" | "idle"

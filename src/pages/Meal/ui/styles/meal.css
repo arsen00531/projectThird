@@ -1,0 +1,13 @@
+
+.cell {
+  @apply border-r border-b border-black p-1 h-full;
+}
+
+/* Для последних элементов в строке убираем правую границу */
+.cell:nth-child(2n) {
+  @apply border-r-0;
+}
+
+.cell:nth-last-child(-n+2){
+  @apply border-b-0
+}
